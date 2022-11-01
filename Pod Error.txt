@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/14202255/pod-install-bash-pod-command-not-found
+
+https://github.com/CocoaPods/CocoaPods/issues/9568
